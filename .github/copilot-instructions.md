@@ -21,13 +21,14 @@ Dieses Repository ist eine Lernumgebung für das Modul Requirements Engineering.
 - Bei Attributen und anderen beschrifteten Elementen auf ausreichend Platz für den Text achten (Form ggf. vergrössern, statt den Text abzuschneiden).
 - Neue Elemente mit ausreichend Abstand zu bestehenden Elementen platzieren, damit sich Formen nicht berühren oder überlappen.
 - Verbindungspunkte so wählen, dass die Linie an einer sinnvollen Stelle der Form beginnt bzw. endet (z. B. Seiten- oder Kantenmitte in Richtung des Verbindungspartners), nicht an einer beliebigen bzw. ungünstig wirkenden Stelle.
+- Bestehende Elemente (z. B. Attribute) dürfen bei Bedarf leicht verschoben werden, um Platz für neue Elemente zu schaffen, sofern die grundsätzliche Layoutstruktur erhalten bleibt.
 
 ## Konzeptionelle ER-Modelle in Chen-Notation
 
 - Entitätstypen werden als Rechtecke dargestellt.
 - Beziehungstypen werden als Rauten dargestellt.
 - Attribute werden als Ovale dargestellt.
-- Kardinalitäten stehen an den Kanten der Beziehungen.
+- Kardinalitäten stehen an den Kanten der Beziehungen; Kanten tragen darüber hinaus keine frei formulierten Beschriftungen (auch nicht bei rekursiven/unären Beziehungen).
 - Keine relationalen Tabellen, Primärschlüssel oder Fremdschlüssel ergänzen, sofern dies nicht ausdrücklich im Requirement oder Change Request verlangt wird.
 
 ## Ausblick
