@@ -15,6 +15,10 @@ Dieses Repository ist eine Lernumgebung für das Modul Requirements Engineering.
 - Erhalte bestehende korrekte Elemente und das bestehende Layout so weit wie möglich.
 - Weise bei fachlichen Mehrdeutigkeiten im Requirement oder Change Request explizit darauf hin, statt selbst Annahmen zu treffen.
 - Diagramme werden als native, editierbare `.drawio`-Dateien gepflegt (kein Export als Bild oder PDF als Ersatz für die Quelle).
+- Beschreibe vor dem Zeichnen die geplante Änderung kurz in Textform und warte die Bestätigung der Studierenden ab, bevor die Elemente im Diagramm angelegt oder verändert werden.
+- Neue bzw. geänderte Elemente eines Schritts werden grün dargestellt (grüne Linien, grüner Text; Flächenobjekte mit leichter grüner Füllung), damit die Änderung gegenüber dem Vorzustand erkennbar bleibt.
+- Verbindungslinien werden gerade gezeichnet, ohne Ecken/Knicke.
+- Bei Attributen und anderen beschrifteten Elementen auf ausreichend Platz für den Text achten (Form ggf. vergrössern, statt den Text abzuschneiden).
 
 ## Konzeptionelle ER-Modelle in Chen-Notation
 
