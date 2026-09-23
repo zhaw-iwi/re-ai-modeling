@@ -16,3 +16,18 @@ Diese Übung wird schrittweise bearbeitet. Für jeden Schritt (Requirement oder 
 - usw.
 
 Copilot kann dazu die Draw.io-MCP-Tools `list-pages`, `copy-page` und `rename-page` nutzen, um die vorherige Seite zu duplizieren, bevor die Änderungen des aktuellen Requirements bzw. Change Requests darauf angewendet werden.
+
+### Benennung der Seiten (Teilaufgaben a–g)
+
+Die Übung besteht aus den Teilaufgaben a) bis g). Die Seiten werden entsprechend benannt:
+
+- `Start` – Ausgangsmodell
+- `a) Fahrzeughalter` – genau eine, aber beliebige Person darf Fahrzeughalter sein
+- `b) Nachfolgevertrag` – Nachfolgevertrag eines Leasingvertrags
+- `c) Rahmenvertrag` – Rahmenvertrag bestimmt monatliche Km und Monatsrate zu einem Leasingvertrag
+- `d) Autonummer` – Autonummer wiederverwenden
+- `e) Firmenkunde` – Erweiterung für Firmenkunden (mit Vererbung)
+- `f) Hauptansprechpartner` – Hauptansprechpartner der Firma festlegen
+- `g) Firma als Halter` – Firma als Fahrzeughalter ermöglichen
+
+Die alphanumerische Benennung sorgt dafür, dass die Tab-Reihenfolge in Draw.io der Bearbeitungsreihenfolge entspricht.
