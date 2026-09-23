@@ -33,6 +33,10 @@ Dieses Repository ist eine Lernumgebung für das Modul Requirements Engineering.
 - Attribute werden als Ovale dargestellt.
 - Kardinalitäten stehen an den Kanten der Beziehungen; Kanten tragen darüber hinaus keine frei formulierten Beschriftungen (auch nicht bei rekursiven/unären Beziehungen).
 - Keine relationalen Tabellen, Primärschlüssel oder Fremdschlüssel ergänzen, sofern dies nicht ausdrücklich im Requirement oder Change Request verlangt wird.
+- Vererbung (IS-A) wird als einfaches Dreieck zwischen Ober- und Subtypen dargestellt. Das Dreieck trägt gut lesbar die Beschriftung `IS-A`.
+- Das Dreieck wird so ausgerichtet, dass seine Spitze zum Obertyp und seine gegenüberliegende Kante zu den Subtypen zeigt. Die Verbindung zum Obertyp startet exakt an der Dreiecksspitze. Jede Verbindung von einem Subtyp endet exakt an der gegenüberliegenden Dreieckskante; bei mehreren Subtypen sind die Anschlusspunkte entlang dieser Kante zu verteilen.
+- Verbindungslinien dürfen weder das IS-A-Dreieck durchqueren noch in dessen Fläche enden. Dreieck und angeschlossene Entitäten benötigen sichtbaren Abstand und dürfen sich nicht überlappen.
+- Zusätzliche Disjunktheits- bzw. Vollständigkeits-Markierungen (d/o) werden nicht verwendet, da diese Notation im Kurs nicht behandelt wird.
 
 ## Ausblick
 
