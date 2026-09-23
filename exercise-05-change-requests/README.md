@@ -1,10 +1,16 @@
 # Übung 5 – Change Requests
 
-Diese Übung enthält die konzeptionellen ER-Modelle (Chen-Notation) sowie die zugehörigen Requirements und Change Requests, anhand derer die Modelle mit GitHub Copilot im Agent Mode weiterentwickelt werden sollen.
+Diese Übung beginnt mit der Lösung aus Übung 4, die als editierbare [Draw.io-Datei](exercise-05-change-requests.drawio) verfügbar ist. Die folgenden Change Requests sollen Schritt für Schritt mit GitHub Copilot im Agent Mode umgesetzt werden.
 
-Ablage:
-- `.drawio`-Dateien: die zu bearbeitenden ER-Modelle
-- Requirements und Change Requests: fachliche Grundlage für die Modelländerungen
+## Change Requests
+
+- [a) Fahrzeughalter](requirements/CR-a.md)
+- [b) Nachfolgevertrag](requirements/CR-b.md)
+- [c) Rahmenvertrag](requirements/CR-c.md)
+- [d) Autonummer](requirements/CR-d.md)
+- [e) Erweiterung für Firmenkunden](requirements/CR-e.md)
+- [f) Hauptansprechpartner der Firma](requirements/CR-f.md)
+- [g) Firma als Fahrzeughalter](requirements/CR-g.md)
 
 ## Vorgehen bei mehreren Teilaufgaben/Schritten
 
@@ -14,8 +20,6 @@ Diese Übung wird schrittweise bearbeitet. Für jeden Schritt (Requirement oder 
 - Seite 2: Ergebnis nach Schritt 1 (Kopie von Seite 1 + Änderungen)
 - Seite 3: Ergebnis nach Schritt 2 (Kopie von Seite 2 + Änderungen)
 - usw.
-
-Copilot kann dazu die Draw.io-MCP-Tools `list-pages`, `copy-page` und `rename-page` nutzen, um die vorherige Seite zu duplizieren, bevor die Änderungen des aktuellen Requirements bzw. Change Requests darauf angewendet werden.
 
 ### Benennung der Seiten (Teilaufgaben a–g)
 

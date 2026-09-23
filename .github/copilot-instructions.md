@@ -26,6 +26,10 @@ Dieses Repository ist eine Lernumgebung für das Modul Requirements Engineering.
 - Bestehende Elemente (z. B. Attribute) dürfen bei Bedarf leicht verschoben werden, um Platz für neue Elemente zu schaffen, sofern die grundsätzliche Layoutstruktur erhalten bleibt.
 - Nach einer Layoutänderung auf Überlappungen und Kreuzungen im Bereich der neuen oder verschobenen Elemente prüfen. Bestehende, nicht berührte Bereiche müssen nicht erneut vollständig geprüft werden. Studierende können das Layout anschliessend bei Bedarf weiter optimieren.
 
+## Mehrschritt-Aufgaben
+
+- Bei aufeinander aufbauenden Requirements oder Change Requests vor der Modelländerung die vorherige Draw.io-Seite mit den MCP-Tools `list-pages`, `copy-page` und `rename-page` duplizieren. Die vorgegebene Tabbezeichnung der jeweiligen Übungs-README verwenden.
+
 ## Konzeptionelle ER-Modelle in Chen-Notation
 
 - Entitätstypen werden als Rechtecke dargestellt.
