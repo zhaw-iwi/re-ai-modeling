@@ -24,7 +24,7 @@ Dieses Repository ist eine Lernumgebung für das Modul Requirements Engineering.
 - Neue Elemente mit ausreichend Abstand zu bestehenden Elementen platzieren, damit sich Formen nicht berühren oder überlappen.
 - Verbindungspunkte so wählen, dass die Linie an einer sinnvollen Stelle der Form beginnt bzw. endet (z. B. Seiten- oder Kantenmitte in Richtung des Verbindungspartners), nicht an einer beliebigen bzw. ungünstig wirkenden Stelle.
 - Bestehende Elemente (z. B. Attribute) dürfen bei Bedarf leicht verschoben werden, um Platz für neue Elemente zu schaffen, sofern die grundsätzliche Layoutstruktur erhalten bleibt.
-- Nach jeder Layoutänderung die Koordinaten aller Elemente rechnerisch auf Überlappungen prüfen (paarweiser Boundingbox-Vergleich mit Sicherheitsabstand), statt sich auf eine rein visuelle Einschätzung zu verlassen.
+- Nach einer Layoutänderung auf Überlappungen und Kreuzungen im Bereich der neuen oder verschobenen Elemente prüfen. Bestehende, nicht berührte Bereiche müssen nicht erneut vollständig geprüft werden. Studierende können das Layout anschliessend bei Bedarf weiter optimieren.
 
 ## Konzeptionelle ER-Modelle in Chen-Notation
 
