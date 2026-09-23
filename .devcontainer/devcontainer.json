@@ -1,0 +1,18 @@
+{
+  "name": "RE AI Modeling",
+  "image": "mcr.microsoft.com/devcontainers/base:2-noble",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "24"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "hediet.vscode-drawio"
+      ]
+    }
+  }
+}
