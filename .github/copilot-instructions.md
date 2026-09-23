@@ -17,8 +17,10 @@ Dieses Repository ist eine Lernumgebung für das Modul Requirements Engineering.
 - Diagramme werden als native, editierbare `.drawio`-Dateien gepflegt (kein Export als Bild oder PDF als Ersatz für die Quelle).
 - Beschreibe vor dem Zeichnen die geplante Änderung kurz in Textform und warte die Bestätigung der Studierenden ab, bevor die Elemente im Diagramm angelegt oder verändert werden.
 - Neue bzw. geänderte Elemente eines Schritts werden grün dargestellt (grüne Linien, grüner Text; Flächenobjekte mit leichter grüner Füllung), damit die Änderung gegenüber dem Vorzustand erkennbar bleibt.
-- Verbindungslinien werden gerade gezeichnet, ohne Ecken/Knicke.
+- Verbindungslinien werden nach Möglichkeit gerade gezeichnet, ohne Ecken/Knicke. Ist das ohne Kollision mit anderen Elementen nicht möglich, sind maximal zwei Knickpunkte zulässig, um die Linie kollisionsfrei um andere Elemente herumzuführen.
+- Verbindungslinien dürfen weder die Raute, mit der sie verbunden sind, noch andere Elemente (Entitäten, Attribute, weitere Verbindungslinien) durchqueren oder kreuzen.
 - Bei Attributen und anderen beschrifteten Elementen auf ausreichend Platz für den Text achten (Form ggf. vergrössern, statt den Text abzuschneiden).
+- Bei Rauten (Beziehungen) Verbindungspunkte nur an den vier tatsächlichen Eckpunkten (oben/rechts/unten/links) setzen. Andere Bruchteilspositionen liegen ausserhalb der sichtbaren Form und erzeugen eine Lücke zwischen Linie und Form. Zusätzlich muss die Anflugrichtung so gewählt werden, dass die Linie nicht durch die Raute hindurchläuft, bevor sie den Eckpunkt erreicht.
 - Neue Elemente mit ausreichend Abstand zu bestehenden Elementen platzieren, damit sich Formen nicht berühren oder überlappen.
 - Verbindungspunkte so wählen, dass die Linie an einer sinnvollen Stelle der Form beginnt bzw. endet (z. B. Seiten- oder Kantenmitte in Richtung des Verbindungspartners), nicht an einer beliebigen bzw. ungünstig wirkenden Stelle.
 - Bestehende Elemente (z. B. Attribute) dürfen bei Bedarf leicht verschoben werden, um Platz für neue Elemente zu schaffen, sofern die grundsätzliche Layoutstruktur erhalten bleibt.
