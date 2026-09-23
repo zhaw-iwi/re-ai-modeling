@@ -19,6 +19,8 @@ Dieses Repository ist eine Lernumgebung für das Modul Requirements Engineering.
 - Neue bzw. geänderte Elemente eines Schritts werden grün dargestellt (grüne Linien, grüner Text; Flächenobjekte mit leichter grüner Füllung), damit die Änderung gegenüber dem Vorzustand erkennbar bleibt.
 - Verbindungslinien werden gerade gezeichnet, ohne Ecken/Knicke.
 - Bei Attributen und anderen beschrifteten Elementen auf ausreichend Platz für den Text achten (Form ggf. vergrössern, statt den Text abzuschneiden).
+- Neue Elemente mit ausreichend Abstand zu bestehenden Elementen platzieren, damit sich Formen nicht berühren oder überlappen.
+- Verbindungspunkte so wählen, dass die Linie an einer sinnvollen Stelle der Form beginnt bzw. endet (z. B. Seiten- oder Kantenmitte in Richtung des Verbindungspartners), nicht an einer beliebigen bzw. ungünstig wirkenden Stelle.
 
 ## Konzeptionelle ER-Modelle in Chen-Notation
 
