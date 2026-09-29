@@ -10,6 +10,7 @@ applyTo: "**/*.drawio"
 - Ändere nur die Elemente, die aufgrund des jeweiligen Requirements oder Change Requests notwendig sind.
 - Erhalte bestehende korrekte Elemente und das bestehende Layout so weit wie möglich.
 - Diagramme werden als native, editierbare `.drawio`-Dateien gepflegt (kein Export als Bild oder PDF als Ersatz für die Quelle).
+- Bearbeite `.drawio`-Dateien ausschliesslich mit den verfügbaren Draw.io-MCP-Tools. Verwende keine Python-Skripte oder andere Skripte zur direkten Manipulation der XML-Struktur.
 - Beschreibe vor dem Zeichnen die geplante Änderung kurz in Textform und warte die Bestätigung der Studierenden ab, bevor die Elemente im Diagramm angelegt oder verändert werden.
 - Neue bzw. geänderte Elemente eines Schritts werden grün dargestellt (grüne Linien, grüner Text; Flächenobjekte mit leichter grüner Füllung), damit die Änderung gegenüber dem Vorzustand erkennbar bleibt.
 - Verbindungslinien werden nach Möglichkeit gerade gezeichnet, ohne Ecken/Knicke. Ist das ohne Kollision mit anderen Elementen nicht möglich, sind maximal zwei Knickpunkte zulässig, um die Linie kollisionsfrei um andere Elemente herumzuführen.
