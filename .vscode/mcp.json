@@ -3,6 +3,10 @@
     "drawio": {
       "command": "npx",
       "args": ["-y", "drawio-mcp-server", "--editor"]
+    },
+    "plantuml": {
+      "command": "npx",
+      "args": ["-y", "@plantuml/mcp-js"]
     }
   }
 }

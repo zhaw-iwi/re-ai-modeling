@@ -1,0 +1,9 @@
+@startuml
+title Uebung 7.1 - Vertragserstellung Krankenkasse Virusana AG
+
+start
+:Dieses Element durch das vollständige
+Activity Diagramm ersetzen;
+stop
+
+@enduml
