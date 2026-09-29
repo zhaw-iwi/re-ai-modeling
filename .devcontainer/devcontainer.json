@@ -9,13 +9,7 @@
       "version": "21"
     }
   },
-  "postAttachCommand": "sleep 2 && code --command markdown.showPreview || true",
   "customizations": {
-    "codespaces": {
-      "openFiles": [
-        "README.md"
-      ]
-    },
     "vscode": {
       "settings": {
         "workbench.editorAssociations": {
