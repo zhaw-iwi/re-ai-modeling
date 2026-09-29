@@ -9,7 +9,7 @@ Persönliches GitHub-Konto mit aktiviertem **GitHub Copilot Student**. Falls noc
 ## Übungen
 
 - [Übung 5.2 - Change Requests](exercise-05-change-requests/README.md) - ER-Modellierung in Chen-Notation mit Draw.io
-- [Übung 7.1 - Vertragserstellung Krankenkasse](exercise-07-virusana/README.md) - UML Activity Diagramm mit PlantUML
+- [Übung 7.2 - Vertragserstellung Krankenkasse](exercise-07-virusana/README.md) - UML Activity Diagramm mit PlantUML
 
 ## Start in GitHub Codespaces
 
