@@ -1,5 +1,5 @@
 {
   "workbench.editorAssociations": {
-    "README.md": "vscode.markdown.preview.editor"
+    "**/README.md": "vscode.markdown.preview.editor"
   }
 }
