@@ -15,7 +15,7 @@ Persönliches GitHub-Konto mit aktiviertem **GitHub Copilot Student**. Falls noc
 
 1. Repository über **Use this template** erstellen und **Code -> Codespaces -> Create codespace** wählen.
 2. Warten, bis der Codespace eingerichtet ist.
-3. Gewünschte Übung öffnen und der Anleitung in deren `README.md` folgen.
+3. `README.md` der gewünschten Übung öffnen und der Anleitung folgen.
 4. Copilot-Chat öffnen und **Agent Mode** wählen.
 
 Die Übungen verwenden unterschiedliche Modellierungswerkzeuge. **Draw.io** wird über einen MCP-Server direkt durch Copilot bearbeitet; **PlantUML** ermöglicht textbasierte UML-Modellierung mit grafischer Vorschau. Die notwendige Konfiguration ist im Codespace bereits eingerichtet.
