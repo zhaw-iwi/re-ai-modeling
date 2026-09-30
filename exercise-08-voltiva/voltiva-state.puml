@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+hide empty description
+
+title Übung 8.2 - Voltiva Ladestation
+
+state "State Diagramm hier erstellen" as Placeholder
+
+@enduml
