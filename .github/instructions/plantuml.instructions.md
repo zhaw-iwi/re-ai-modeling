@@ -26,3 +26,10 @@ applyTo: "**/*.puml"
 - Verwende für Wiederholungen nach Möglichkeit strukturierte PlantUML-Konstrukte wie `repeat`, sodass fachlich identische Actions nicht unnötig mehrfach dargestellt werden.
 - Verwende Initial Nodes, Activity Final Nodes und Flow Final Nodes entsprechend ihrer UML-Semantik.
 - Stelle sicher, dass das erzeugte PlantUML-Modell syntaktisch gültig und als Diagramm renderbar ist.
+
+## UML State Diagrams
+
+- Verwende für State Diagrams `!pragma layout smetana`.
+- Verwende `hide empty description`, damit Zustände ohne Beschreibung ohne leeres Beschreibungs-Kompartiment dargestellt werden.
+- Verwende die von PlantUML vorgesehenen Konstrukte für UML State Diagrams.
+- Stelle sicher, dass das erzeugte PlantUML-Modell syntaktisch gültig und als Diagramm renderbar ist.

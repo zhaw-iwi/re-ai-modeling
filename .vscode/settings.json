@@ -1,4 +1,5 @@
 {
+  "files.encoding": "utf8",
   "workbench.editorAssociations": {
     "**/README.md": "vscode.markdown.preview.editor"
   }
